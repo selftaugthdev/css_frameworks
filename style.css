@@ -1,0 +1,25 @@
+.icon-size {
+    width: 40px; 
+    height: 40px;
+  }
+
+/* Change the button color on hover */
+.learn-more:hover {
+    background-color: #49AAF4; /* Change to the desired hover color */
+    color: white; /* Change to the desired text color */
+  }
+
+/* make a regular card BOX SHADOW effect
+.card {
+    box-shadow: -10px 10px 10px rgba(118, 202, 244, 0.58); 
+  } */
+
+/* make a card BOX SHADOW effect on hover */
+.card:hover {
+    box-shadow: 0px 10px 10px #BCCCDD; 
+  }
+
+  .btn {
+    border-radius: 20px;
+  }
+  
